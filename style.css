@@ -1,0 +1,9 @@
+.container{
+	border: ridge 8px #806767;
+	display:flex;
+}
+.item{
+	border: 8px ridge #457180;
+	margin: 10px;
+	font-size: 24px;
+}
